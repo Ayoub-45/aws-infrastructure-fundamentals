@@ -1,6 +1,6 @@
-# AWS Infrastructure Lab
+# AWS Infrastructure environment
 
-A hands-on AWS infrastructure lab built with **Terraform** to understand how cloud infrastructure actually works underneath the abstractions.
+A hands-on AWS infrastructure environment built with **Terraform** to understand how cloud infrastructure actually works underneath the abstractions.
 
 This project started as a simple EC2 experiment and gradually became a small infrastructure environment where I could work with networking, IAM, storage, monitoring, alerting, failure scenarios, and infrastructure as code.
 
