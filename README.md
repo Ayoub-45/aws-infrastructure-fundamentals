@@ -39,7 +39,7 @@ This is a **learning and engineering lab**, not a production architecture.
 ---
 
 ## Architecture
-![AWS Architecture](./architecture.jpg)
+![AWS Architecture](./architecture.jpeg)
 ### Network layout
 
 | Component         | CIDR / ID     |
