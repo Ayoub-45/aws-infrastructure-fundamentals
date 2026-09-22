@@ -34,7 +34,7 @@ The infrastructure contains:
 * Terraform-managed infrastructure
 * Several deliberate failure and recovery experiments
 
-This is a **learning and engineering lab**, not a production architecture.
+This is a **learning and engineering environment**, not a production architecture.
 
 ---
 
